@@ -1,0 +1,7 @@
+<a href="https://www.weeronline.nl/Europa/Nederland/135" target="_blank" rel="noopener noreferrer">🌤️ Weather Netherlands: view the current forecast</a>
+• 📰 NU.nl <a href="https://www.nu.nl" target="_blank" rel="noopener noreferrer">🗞️ Example news item 1 from NU.nl</a>
+• 📰 NU.nl <a href="https://www.nu.nl" target="_blank" rel="noopener noreferrer">🗞️ Example news item 2 from NU.nl</a>
+• 📰 NU.nl <a href="https://www.nu.nl" target="_blank" rel="noopener noreferrer">🗞️ Example news item 3 from NU.nl</a>
+• 🟧 NOS <a href="https://nos.nl" target="_blank" rel="noopener noreferrer">🗞️ Example news item 1 from NOS</a>
+• 🟧 NOS <a href="https://nos.nl" target="_blank" rel="noopener noreferrer">🗞️ Example news item 2 from NOS</a>
+• 🟧 NOS <a href="https://nos.nl" target="_blank" rel="noopener noreferrer">🗞️ Example news item 3 from NOS</a>

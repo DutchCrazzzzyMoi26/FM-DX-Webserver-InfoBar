@@ -1,4 +1,4 @@
-# DutchCrazzzzyMoi26 FM-DX InfoBar
+# DutchCrazzzzyMoi26 FM-DX Webserver InfoBar
 
 A customizable information bar for FM-DX Webserver.
 
